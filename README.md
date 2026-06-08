@@ -42,7 +42,7 @@ In **genau einer** deiner `.c`-Dateien musst du die Implementierung definieren:
 ```c
 #define GEMINI_CHIFFRE_IMPLEMENTATION
 #include "gemini_chiffre.h"
-
+```
 
 
 P.S. 
